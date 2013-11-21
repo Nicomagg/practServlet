@@ -1,0 +1,30 @@
+Guia de ejercicios 
+Todos los ejercicios se haran a partir de maven o Eclipse
+
+
+1) Desarrollar un  programa con un servlet que responda "Hola Mundo" cuando se apunta a la direccion del servlet en el browser - solo con maven y un editor de texto
+
+2) Desarrollar un programa que tenga un servlet que dibuje un formulario en donde un usuario ingrese su nombre y al hacer submit(" Metodo Get ") el servlet le responda con el nombre mas una leyenda por ejemplo "Hola $nombreUsuario ingresaste a mi servlet METODO GET"
+
+3) Desarrollar un programa que tenga un servlet que dibuje un formulario en donde un usuario ingrese su nombre y al hacer submit(" Metodo Post ") el servlet le responda con el nombre mas una leyenda por ejemplo "Hola $nombreUsuario ingresaste a mi servlet METODO POST"
+
+4) Desarrollar un programa que conste con un servlet que cuente cuantos request GET y Cuantos request POST fueron hechas al servlet.
+
+5) Desarrollar un programa que conste con un servlet que valla almacenanddo en una lista los nombres ingresados y al final los imprima en un jsp sin usar sessiones 
+
+6) Desarrollar una aplicaicion que tenga un servlet que pueda obtener dos numeros desde y una operacion matematica correspondiente desde un formulario y responda
+al browser en consecuencia.
+
+7) Desarrolle una aplicacion que pueda leer la cabecera de la request enviada desde el cliente y forwardee a un jsp informandole en una bonita tabla las cabeceras
+
+8) Desarrolle una aplicacion en para una verduleria en los cuales se puede mediante un formulario cargar las fruta o verduras a comprar , la cantidad y el servlet debe recibir request (Post) calcular cuanto es el valor de la compra y forwardear el ticket a un jsp para mostrarselo a un cliente
+
+9) Desarrolle una aplicacion que le pregunte algo al usuario y este pueda responder , si no responde bien el usuario tiene que ser REDIRIGIDO a un buscador con la pregunta , este buscado tiene que esta confirurados en el inicio de un servlet.
+
+10) Desarrole una aplicacion que permita logearse con un conjunto de usuarios y claves validas , esta claves y usuarios no pueden estar hardcodeadas sino inicializadas como parametros de contexto de la app, si el usuario se logea bien mostrar jsp con home , sino redireccionar a una url configurada en el inicio de un servlet.
+
+11) Desarrollar un programa que almacene en el contexto de la aplicacion el color de una pagina web y que dicho color pueda ser cambiado por cualquiera en cualquier momento
+
+12) Desarrolle una aplicacion en donde varios usuarios puedan  al mismo tiempo comprar verduras en un carrito virtual, los usuario podran ver el estado del carrito , y cuales son las verdura cargadas en todo momento de todos los usuarios. 
+
+13)  Desarrollar una aplicaicion que tenga un servlet que pueda obtener dos numeros desde y una operacion matematica correspondiente desde un formulario esta operacion se podra acumular con operaciones previas y al final el usuario obtendra el resultado correcto de toda la operacion . 
