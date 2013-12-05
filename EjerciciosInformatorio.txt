@@ -4,7 +4,9 @@ Todos los ejercicios se haran a partir de maven o Eclipse
 
 1) Desarrollar un  programa con un servlet que responda "Hola Mundo" cuando se apunta a la direccion del servlet en el browser - solo con maven y un editor de texto
 
-2) Desarrollar un programa que tenga un servlet que dibuje un formulario en donde un usuario ingrese su nombre y al hacer submit(" Metodo Get ") el servlet le responda con el nombre mas una leyenda por ejemplo "Hola $nombreUsuario ingresaste a mi servlet METODO GET"
+2) Desarrollar un programa que tenga un servlet que dibuje un formulario en donde un usuario ingrese su nombre y al hacer submit
+(" Metodo Get ") el servlet le responda con el nombre mas una leyenda por ejemplo "Hola $nombreUsuario ingresaste a mi servlet 
+METODO GET"
 
 3) Desarrollar un programa que tenga un servlet que dibuje un formulario en donde un usuario ingrese su nombre y al hacer submit(" Metodo Post ") el servlet le responda con el nombre mas una leyenda por ejemplo "Hola $nombreUsuario ingresaste a mi servlet METODO POST"
 
