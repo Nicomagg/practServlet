@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="Ejer2" name="Ejer2" path="/home/landi/Escritorio/Nico/Informatorio/Java/practServlet/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/Ejer2" type="j2ee"/>
+</server>

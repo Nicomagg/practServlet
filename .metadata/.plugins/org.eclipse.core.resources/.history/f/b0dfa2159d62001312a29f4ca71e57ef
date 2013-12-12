@@ -1,0 +1,22 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+
+	<display-name>EJercicio 2</display-name>
+	<servlet>
+		<servlet-name>practicaGet1.do</servlet-name>
+		<display-name>practicaGet</display-name>
+		<servlet-class>practicaGet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>practicaGet1.do</servlet-name>
+		<url-pattern>/practicaGet</url-pattern>
+	</servlet-mapping>
+
+	<welcome-file-list>
+		<welcome-file>index.htlm</welcome-file>
+	</welcome-file-list>
+		
+</web-app>
